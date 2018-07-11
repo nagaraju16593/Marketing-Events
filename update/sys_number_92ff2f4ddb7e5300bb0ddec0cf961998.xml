@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_193389_marketing_event_request">x_193389_marketing_event_request</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>EVE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-18 11:20:03</sys_created_on>
+        <sys_id>92ff2f4ddb7e5300bb0ddec0cf961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EVE</sys_name>
+        <sys_package display_value="Marketing Events" source="x_193389_marketing">554a6381db3e5300bb0ddec0cf9619ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Events">554a6381db3e5300bb0ddec0cf9619ca</sys_scope>
+        <sys_update_name>sys_number_92ff2f4ddb7e5300bb0ddec0cf961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-18 11:20:03</sys_updated_on>
+    </sys_number>
+</record_update>
